@@ -1,11 +1,11 @@
 ---
-title: "[TIL] Group Anagrams: Choosing a Canonical Key"
+title: "Group Anagrams: Choosing a Canonical Key"
 date: 2026-08-18 09:00:00 +0900
-categories: [TIL, Algorithms]
+categories: [Algorithms]
 tags: [leetcode, hash-map, strings, complexity]
 ---
 
-Day 2. Today's problem: [LC49 Group Anagrams](https://leetcode.com/problems/group-anagrams/) — group words that are permutations of each other.
+[LC49 Group Anagrams](https://leetcode.com/problems/group-anagrams/) asks you to group words that are permutations of each other.
 
 ## The real question
 
